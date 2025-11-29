@@ -48,10 +48,11 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+英伟达
+苹果
++台积电
+
+台积电
 
 ai
 !gai
